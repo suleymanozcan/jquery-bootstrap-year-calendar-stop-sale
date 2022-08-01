@@ -3,6 +3,12 @@
 [Codepen demo](https://codepen.io/create07/pen/ZExvgZp "Codepen demo")
 Event ve Basic sayfasını birleştirip birkaç güncelleme yapıldı.
 
+Takvim üzerinde seçimi iptal etmek için.
+jquery.bootstrap.year.calendar.js dosyası içindenki 
+174. satırdaki
+$calendar.data('rangepicker-end-choosen', true);
+kısmı false yapınız.
+
 
 
 # jQuery and Bootstrap 3/4 Year Calendar
